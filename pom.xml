@@ -10,13 +10,13 @@
         <version>7</version>
     </parent>
 
-    <groupId>com.amplify</groupId>
+    <groupId>com.zackjp</groupId>
     <artifactId>hiccup</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>hiccup</name>
     <description>HTTP semantics and REST for Android ContentProviders.</description>
-    <url>https://github.com/amplify-education/hiccup</url>
+    <url>https://github.com/zackjp/hiccup</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -25,9 +25,9 @@
     </properties>
 
     <scm>
-        <url>http://github.com/amplify-education/hiccup</url>
-        <connection>scm:git:git://github.com/amplify-education/hiccup.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/amplify-education/hiccup.git</developerConnection>
+        <url>http://github.com/zackjp/hiccup</url>
+        <connection>scm:git:git://github.com/zackjp/hiccup.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/zackjp/hiccup.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
@@ -39,8 +39,8 @@
     </licenses>
 
     <organization>
-        <name>Amplify Education, Inc.</name>
-        <url>http://www.amplify.com</url>
+        <name>zackjp</name>
+        <url>https://github.com/zackjp</url>
     </organization>
 
     <dependencies>

@@ -1,4 +1,4 @@
-package com.amplify.hiccup.service;
+package com.zackjp.hiccup.service;
 
 import android.content.ContentValues;
 import android.content.UriMatcher;

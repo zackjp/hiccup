@@ -1,4 +1,4 @@
-package com.amplify.hiccup.client;
+package com.zackjp.hiccup.client;
 
 import android.content.*;
 import android.database.Cursor;

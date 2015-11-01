@@ -1,8 +1,8 @@
-package com.amplify.hiccup.client;
+package com.zackjp.hiccup.client;
 
 import android.content.ContentValues;
 
-import com.amplify.hiccup.shared.JsonConverter;
+import com.zackjp.hiccup.shared.JsonConverter;
 
 public class HttpRequestAdapter implements RequestAdapter {
 

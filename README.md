@@ -11,13 +11,13 @@ Some benefits to this approach include allowing any persistence implementation i
 prefs, ORMs) and permitting versioned endpoints/resources for cross-process data sharing.
 
 #### Status
-[![Build Status](https://travis-ci.org/amplify-education/hiccup.svg?branch=master)](https://travis-ci.org/amplify-education/hiccup)
+[![Build Status](https://travis-ci.org/zackjp/hiccup.svg?branch=master)](https://travis-ci.org/zackjp/hiccup)
 
 Approaching a 1.0 pre-release. Grab **1.0 snapshot version** like so:
 ```xml
 <dependencies>
   <dependency>
-    <groupId>com.amplify</groupId>
+    <groupId>com.zackjp</groupId>
     <artifactId>hiccup</artifactId>
     <version>1.0-SNAPSHOT</version>
   </dependency>

@@ -1,4 +1,4 @@
-package com.amplify.hiccup.shared;
+package com.zackjp.hiccup.shared;
 
 public interface JsonConverter {
     String toJson(Object object);

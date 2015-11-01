@@ -1,10 +1,10 @@
-package com.amplify.hiccup.service;
+package com.zackjp.hiccup.service;
 
 import android.content.ContentValues;
 import android.database.Cursor;
 import android.provider.BaseColumns;
 
-import com.amplify.hiccup.shared.JsonConverter;
+import com.zackjp.hiccup.shared.JsonConverter;
 
 import org.junit.Before;
 import org.junit.Test;
